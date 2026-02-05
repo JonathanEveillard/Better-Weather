@@ -1,0 +1,8 @@
+openmeteo-requests
+fastapi[standard]
+pandas
+requests_cache
+retry_requests
+ipinfo
+pywebview
+python-dotenv
