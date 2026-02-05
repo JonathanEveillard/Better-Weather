@@ -3,9 +3,12 @@
 A lightweight, frameless weather wdiget that displays current weather information in a compact, always on top window. The app automatically detects your location using your IP address and fetches real time weather data from the Open Meteo API.
 
 ![Demo](demo/demo_windows.png)
-![Demo](demo/demo_macos.png)
 
 ---
+
+![Demo](demo/demo_macos.png)
+
+
 
 ## Features
 
