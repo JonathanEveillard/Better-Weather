@@ -22,7 +22,7 @@ A lightweight, frameless weather application that displays current weather infor
 1. Clone the repository:
 
 ```bash
-git clone <https://github.com/JonathanEveillard/Better-Weather>
+git clone https://github.com/JonathanEveillard/Better-Weather
 cd betterweather
 ```
 
