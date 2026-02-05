@@ -1,6 +1,6 @@
 # Better Weather
 
-A lightweight, frameless weather wdiget that displays current weather information in a compact, always on top window. The app automatically detects your location using your IP address and fetches real-time weather data from the Open-Meteo API.
+A lightweight, frameless weather wdiget that displays current weather information in a compact, always on top window. The app automatically detects your location using your IP address and fetches real time weather data from the Open Meteo API.
 
 ![Demo](demo/demo.png)
 
@@ -100,7 +100,7 @@ The app displays different icons based on WMO Weather interpretation codes:
 
 Once launched, the application displays a compact window showing:
 
-- Time-appropriate greeting
+- Time appropriate greeting
 - Current weather icon
 - Current temperature in Celsius
 - "Feels like" temperature
