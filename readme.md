@@ -64,7 +64,7 @@ source ./venv/bin/activate
 pip install -r requirements.txt
 
 # Run the application
-python openmeteo.py
+python run.py
 ```
 
 ## Dependencies
