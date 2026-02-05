@@ -3,7 +3,6 @@ import sys
 import time
 from pathlib  import Path
 import os
-import openmeteo.py
 
 
 def verify_env():
