@@ -18,7 +18,7 @@ def verify_env():
         print("All packages are installed and up to date.")
     else:
 
-        # Not in venv, create one if it doesn't exist
+        # Create virtual environment if none has been created yet
         if not VENV_DIR.exists():
             print("No virtual environment detected. Creating one...")
             subprocess.run([sys.executable, "-m", "venv", str(VENV_DIR)], check=True)
