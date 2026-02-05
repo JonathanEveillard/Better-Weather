@@ -1,6 +1,6 @@
 # Better Weather
 
-A lightweight, frameless weather application that displays current weather information in a compact, always on top window. The app automatically detects your location using your IP address and fetches real-time weather data from the Open-Meteo API.
+A lightweight, frameless weather wdiget that displays current weather information in a compact, always on top window. The app automatically detects your location using your IP address and fetches real-time weather data from the Open-Meteo API.
 
 ![Demo](demo/demo.png)
 
